@@ -12,7 +12,7 @@ import "slick-carousel/slick/slick-theme.css"
 const data = [
     { img: img1, name: "E-shopping", desc: "You can buy anything in one place", link: "https://e-shopping-bay.vercel.app" },
     { img: img2, name: "CDMastery", desc: "Take your learning with you!", link: "https://cdmastery.vercel.app/" },
-    { img: img3, name: "SeoulFlix", desc: "Movie site to see Korean dramas", link: "https://seoulflix.vercel.app/" },
+    { img: img3, name: "SeoulFlix", desc: "Movie site to see Korean dramas", link: "https://seoul-flix.vercel.app/" },
 ]
 
 function Portfolio() {

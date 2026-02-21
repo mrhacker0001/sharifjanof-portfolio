@@ -13,7 +13,11 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-parallax-tilt": "^1.7.319",
     "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.3",
+    "react-slick": "^0.31.0",
+    "slick-carousel": "^1.8.1",
     "swiper": "^12.1.2",
     "web-vitals": "^2.1.4"
   },
